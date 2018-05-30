@@ -1,0 +1,14 @@
+{
+  "name": "quantum-js",
+  "version": "1.0.0",
+  "description": "Playing with quants",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@qiskit/sdk": "^0.2.0"
+  }
+}
